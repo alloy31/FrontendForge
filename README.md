@@ -1,2 +1,2 @@
-# FrontendForgeVue
-Frontend practice space using Vue
+# FrontendForge
+Alloy's Frontend practice space
